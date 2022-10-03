@@ -1,8 +1,5 @@
-# Projects
+Build a ML model to predict insurance charge.
+Done EDA, Feature Engineering and apllied Multiple Linear Regression Algorithm. 
+Feature Selection Method to reduce colinearity: RECURSIVE FEATURE ELIMINATION
 
-This Repository contains (EDA + MACHINE LEARNING) projects on different Datasets. 
-Files Downloadable:
--Script (projects)
--Dataset
--ppt
       
